@@ -1,0 +1,16 @@
+# Para arquivos Java compilados
+*.class
+# Para a pasta 
+build
+# Para arquivos de execução criados por compilação
+exec
+# Para arquivos desnecessários gerados pelo TexStudio
+*.aux
+*.out
+*.bbl
+*.blg
+*.log
+*.synctex.gz
+/SistemaDoacoes/nbproject/private/
+/SistemaDoacoes/dist/
+/SistemaDoacoesBKP/nbproject/private/
